@@ -1,7 +1,6 @@
 # project-Blue-Green-Deployment-for-Application-Updates
 # terraform-aws-grp4project
 
-# terraform-aws-group4
 ##  Create main.tf and input following:
 ```hcl
 module "vpc" {
